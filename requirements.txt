@@ -1,0 +1,16 @@
+# Зависимости учебного проекта (Яндекс Практикум, 2022–2023).
+# Версии не фиксировались в исходном окружении.
+
+catboost
+jupyter
+lightgbm
+matplotlib
+numpy
+optuna
+pandas
+psycopg2-binary
+scikit-learn
+seaborn
+shap
+sqlalchemy
+xgboost
